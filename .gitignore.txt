@@ -1,5 +1,0 @@
-final.ipynb
-notebook.ipynb
-*.rar
-project.ipynb
-project(1).ipynb
