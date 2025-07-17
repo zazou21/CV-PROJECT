@@ -1,6 +1,6 @@
 #  Barcode Image Restoration & Decoding
 
-This project explores multiple signal and image processing techniques to **restore and decode barcodes** that are affected by noise, rotation, disconnection, or distortion. It focuses on frequency domain filtering, morphological operations, and intelligent heuristics for evaluating barcode quality — ultimately enabling reliable decoding of noisy barcode images.
+This project explores multiple signal and image processing techniques to **restore and decode barcodes** that are affected by noise, rotation, disconnection, or distortion. It focuses on frequency domain filtering, morphological operations, and intelligent heuristics for evaluating barcode quality  enabling reliable decoding of noisy barcode images.
 
 ---
 
